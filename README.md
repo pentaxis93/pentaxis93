@@ -1,15 +1,3 @@
-<div align="center">
-
-### Human owns WHAT. AI owns HOW.
-
-Building tools that emerge from collaboration, not isolation.
-
-[![Blog](https://img.shields.io/badge/aiandi.dev-Learning%20in%20public-black?style=flat-square)](https://aiandi.dev)
-
-</div>
-
----
-
 #### Current Work
 
 <a href="https://github.com/pentaxis93/talos-gtd">
