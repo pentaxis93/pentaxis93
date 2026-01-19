@@ -33,19 +33,18 @@ Building tools that emerge from collaboration, not isolation.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pentaxis93/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pentaxis93&show_icons=true&theme=transparent&hide_border=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pentaxis93&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img src="https://raw.githubusercontent.com/pentaxis93/github-stats/master/generated/overview.svg" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pentaxis93/github-stats/master/generated/languages.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pentaxis93&layout=compact&theme=default&hide_border=true">
-  <img src="https://raw.githubusercontent.com/pentaxis93/github-stats/master/generated/languages.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pentaxis93&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 </picture>
 
 <br/>
 
-[![Streak](https://streak-stats.demolab.com?user=pentaxis93&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pentaxis93&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pentaxis93&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img src="https://streak-stats.demolab.com?user=pentaxis93&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</picture>
 
 </div>
 
