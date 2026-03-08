@@ -1,45 +1,11 @@
-#### Current Work
+Exploring what happens when you stop prompting AI and start building with it.
 
-<a href="https://github.com/pentaxis93/talos-gtd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pentaxis93&repo=talos-gtd&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/pentaxis93/aiandi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pentaxis93&repo=aiandi&theme=transparent&hide_border=true" />
-</a>
+- **[agentd](https://github.com/pentaxis93/agentd)** — Process runtime for autonomous agents.
+- **[groundwork](https://github.com/pentaxis93/groundwork)** — Pipeline runtime for autonomous agents.
+- **[skill-creator](https://github.com/pentaxis93/skill-creator)** — Anthropic's skill-creator, modified to produce vendor-agnostic skills. Runs on Claude Code, outputs skills any agent can use.
 
-<a href="https://github.com/pentaxis93/harmonic-depths">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pentaxis93&repo=harmonic-depths&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/pentaxis93/rice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pentaxis93&repo=rice&theme=transparent&hide_border=true" />
-</a>
+I write about what I learn at **[aiandi.dev](https://aiandi.dev)**.
 
 ---
 
-#### Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pentaxis93&show_icons=true&theme=transparent&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pentaxis93&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=pentaxis93&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pentaxis93&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pentaxis93&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <img src="https://streak-stats.demolab.com?user=pentaxis93&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-*Foundation-first. Test-driven. The work is the practice.*
-
-</div>
+*Before enlightenment: write code, fix bugs. After enlightenment: write code, fix bugs.*
