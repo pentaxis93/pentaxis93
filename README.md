@@ -1,4 +1,4 @@
-Exploring what happens when you stop prompting AI and start building with it.
+Building real things with AI and learning from it.
 
 - **[agentd](https://github.com/pentaxis93/agentd)** — Process runtime for autonomous agents.
 - **[groundwork](https://github.com/pentaxis93/groundwork)** — Pipeline runtime for autonomous agents.
