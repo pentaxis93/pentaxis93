@@ -5,7 +5,3 @@ Exploring what happens when you stop prompting AI and start building with it.
 - **[skill-creator](https://github.com/pentaxis93/skill-creator)** — Anthropic's skill-creator, modified to produce vendor-agnostic skills. Runs on Claude Code, outputs skills any agent can use.
 
 I write about what I learn at **[aiandi.dev](https://aiandi.dev)**.
-
----
-
-*Before enlightenment: write code, fix bugs. After enlightenment: write code, fix bugs.*
