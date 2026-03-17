@@ -1,6 +1,6 @@
-Building real things with AI and learning from it.
+Building agent infrastructure, discipline before code.
 
-- **[agentd](https://github.com/pentaxis93/agentd)** — Process runtime for autonomous agents.
-- **[groundwork](https://github.com/pentaxis93/groundwork)** — Pipeline runtime for autonomous agents.
-- **[skill-creator](https://github.com/pentaxis93/skill-creator)** — Anthropic's skill-creator, modified to produce vendor-agnostic skills. Runs on Claude Code, outputs skills any agent can use.
-- **[aiandi](https://github.com/pentaxis93/aiandi)** — Where I write about what I'm learning. [aiandi.dev](https://aiandi.dev)
+- **[groundwork](https://github.com/pentaxis93/groundwork)**: Software engineering discipline for AI agents. Encodes methodology as specifications, schemas, and a topology that makes the right sequence natural.
+- **[runa](https://github.com/pentaxis93/runa)**: Gives methodology teeth. A Rust runtime that validates artifacts, resolves dependencies, and enforces execution contracts.
+- **[agentd](https://github.com/pentaxis93/agentd)**: Runtime daemon for self-hosted agents. Isolated containers, credential and context injection, and tool wiring through MCP.
+- **[aiandi](https://github.com/pentaxis93/aiandi)**: Where I write about what I'm learning. [aiandi.dev](https://aiandi.dev)
